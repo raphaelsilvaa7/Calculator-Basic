@@ -2,7 +2,7 @@
 
 
 
-Aqui está um exemplo de um `README.md` descontraído para sua calculadora:
+
 
 ---
 
