@@ -46,12 +46,6 @@ https://github.com/raphaelsilvaa7/Calculator-Basic
 3. Abra o arquivo `index.html` no seu navegador preferido.
 4. Faça as contas que precisar, sem enrolação.
 
-## 👀 Demonstração
-
-Aqui vai um gostinho de como é a cara dela:
-
-![Calculadora Simples](screenshot.png)
-
 *Ela é básica, mas resolve seus problemas (matemáticos, pelo menos)!*
 
 ## 🤝 Contribuições
